@@ -3,7 +3,7 @@ import d2l
 
 requirements = [
     'jupyter==1.0.0',
-    'numpy==1.21.5',
+    'numpy==1.23.0',
     'matplotlib==3.5.1',
     'requests==2.25.1',
     'pandas==1.4.4'
